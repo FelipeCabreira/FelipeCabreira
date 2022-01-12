@@ -17,6 +17,7 @@
   <img align="center" alt="Felipe-GIT" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
   <img align="center" alt="Felipe-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" alt="Felipe-Bash" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg">
+  <img align="center" alt="Felipe-Bash" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=e60505">
 </div>
   
   ##
