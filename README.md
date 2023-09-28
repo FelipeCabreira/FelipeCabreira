@@ -1,6 +1,15 @@
 
-# ![banner](https://github.com/FelipeCabreira/FelipeCabreira/assets/32957354/16cf080c-8ea1-4c31-8fea-a5fe7e3ee7a9)
 
+# About
+![banner](https://github.com/FelipeCabreira/FelipeCabreira/assets/32957354/16cf080c-8ea1-4c31-8fea-a5fe7e3ee7a9)
+
+# Links
+- [About](#about)
+- [Goals](#goals)
+- [Tools](#tools)
+- [Socials](#socials)
+
+# Goals
   - 🌐 Developer in love with web, javascript stack and learning mobile development !
   - 📦 Currently working with React/Angular and Typescript focus projects
   - 🚧 Mobile development with React Native
@@ -30,17 +39,22 @@
   <img align="center" alt="Felipe-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Felipe-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 </div>
+
+
+## Tools
+
+<div>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" target="_blank"></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" target="_blank"></a> 
+</div>
   
-  ##
+ ## Socials
  
 <div> 
   <a href="https://instagram.com/liipelantmann" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:cabreirawow@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-cabreira-41b23b143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" target="_blank"></a> 
-  
-  
+
  
   ![Snake animation](https://github.com/FelipeCabreira/FelipeCabreira/blob/output/github-contribution-grid-snake.svg)
  
