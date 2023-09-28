@@ -5,6 +5,7 @@
 
 # Links
 - [About](#about)
+- [Socials](#socials)
 - [Goals](#goals)
 - [Github Activities](#github-activities)
 - [Technologies & Tools](#technologies--tools)
@@ -13,7 +14,15 @@
   - [Design](#design)
   - [Devops](#devops)
   - [Tools](#tools)
-- [Socials](#socials)
+
+# Socials
+ 
+<div> 
+  <a href="https://instagram.com/liipelantmann" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:cabreirawow@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-cabreira-41b23b143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
 
 # Goals
   - 🌐 Developer in love with web, javascript stack and learning mobile development !
@@ -26,8 +35,9 @@
   <a href="https://github.com/FelipeCabreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeCabreira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCabreira&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
 
+  ![Snake animation](https://github.com/FelipeCabreira/FelipeCabreira/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 
 # Technologies & Tools
@@ -101,13 +111,4 @@
 
 
 
-## Socials
- 
-<div> 
-  <a href="https://instagram.com/liipelantmann" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:cabreirawow@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-cabreira-41b23b143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/FelipeCabreira/FelipeCabreira/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
