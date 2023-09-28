@@ -16,13 +16,17 @@
   - [Tools](#tools)
 
 # Socials
- 
-<div> 
-  <a href="https://instagram.com/liipelantmann" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:cabreirawow@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-cabreira-41b23b143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-E34F26?style=for-the-badge&color=yellow)]()
+ <div style="display: inline_block">
+  
+  <div> 
+    <a href="https://instagram.com/liipelantmann" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:cabreirawow@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/felipe-cabreira-41b23b143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
+ </div>
+
 
 # Goals
   - 🌐 Developer in love with web, javascript stack and learning mobile development !
