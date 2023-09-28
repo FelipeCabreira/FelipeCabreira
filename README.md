@@ -78,11 +78,13 @@
   <img align="center" alt="Felipe-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="Felipe-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" />
           
-  <br>
+ 
   
-  <div>
+  
+</div>
+<br>
+<div>
    <a href="" target="_blank"><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" target="_blank"></a> 
-  </div>
 </div>
 
 ## Tools
