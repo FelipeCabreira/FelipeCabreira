@@ -51,7 +51,7 @@
  <a href="" target="_blank"><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" target="_blank"></a> 
 </div>
   
- ## Socials
+# Socials
  
 <div> 
   <a href="https://instagram.com/liipelantmann" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
