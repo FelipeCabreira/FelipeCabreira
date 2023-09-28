@@ -1,7 +1,7 @@
 
 
 # About
-![banner](https://github.com/FelipeCabreira/FelipeCabreira/assets/32957354/16cf080c-8ea1-4c31-8fea-a5fe7e3ee7a9)
+![banner](https://github.com/FelipeCabreira/FelipeCabreira/assets/32957354/44e184ba-824b-42dd-9bdb-267f39a6625b)
 
 # Links
 - [About](#about)
