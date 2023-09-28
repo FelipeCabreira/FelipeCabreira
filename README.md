@@ -6,6 +6,7 @@
 # Links
 - [About](#about)
 - [Goals](#goals)
+- [Github](#github)
 - [Tools](#tools)
 - [Socials](#socials)
 
@@ -14,7 +15,7 @@
   - 📦 Currently working with React/Angular and Typescript focus projects
   - 🚧 Mobile development with React Native
   - ✔️ Backend development wise with NodeJS/Java (Springboot)
-
+# Github
 <div align="center">
   <a href="https://github.com/FelipeCabreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeCabreira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
