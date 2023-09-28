@@ -8,6 +8,7 @@
 - [Goals](#goals)
 - [Github](#github)
 - [Tools](#tools)
+- [Extra](#extra-tools)
 - [Socials](#socials)
 
 # Goals
@@ -21,6 +22,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeCabreira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCabreira&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+
+## Tools
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -40,10 +43,9 @@
   <img align="center" alt="Felipe-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Felipe-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 </div>
+<br>
 
-
-## Tools
-
+## Extra tools
 <div>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" target="_blank"></a> 
