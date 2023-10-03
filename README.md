@@ -17,7 +17,7 @@
 
 # Socials
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-E34F26?style=for-the-badge&color=yellow)]()
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-E34F26?style=for-the-badge&color=yellow)](https://felipe-cabreira.vercel.app/)
  <div style="display: inline_block">
   
   <div> 
